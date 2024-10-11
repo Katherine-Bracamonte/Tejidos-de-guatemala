@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segundo ejercicio HTML</title>
+</head>
+<body>
+    <header> 
+        <h1 id="arriba">Cultura Guatemalteca, tejidos tactic</h1>
+        <nav>
+            <ul>
+                <li><a href="#tejidos">Ir a leer sobre tejidos</a></li>
+                <li><a href="#colores">Ir a leer sobre colores</a></li>
+                <li><a href="#cultura">Ir a leer soobre culttura</a></li>
+            </ul>
+        </nav>
+        <section>
+        <ul>
+        <li>
+        <a href="https://www.facebook.com/">
+        <img scr="imagenes/facebook.png" alt="logo facebook">
+        </a>
+        </li>
+        <li>
+        <a href="https://www.instagram.com/?hl=es">
+        <img scr="imagenes/instagram.png" alt="logo instagram">
+        </a>
+        </li>
+        <li>
+        <a href="https://www.youtube.com/">
+        <img scr="imagenes/youtube.png" alt="logo youtube">
+        </a>
+        </li>
+        <li>
+        <a href="https://www.twitch.tv/">
+        <img scr="imagenes/twitch.png" alt="logo twitch">
+        </a>
+        </li>
+        </ul>
+        </section>
+    </header>
+
+    <main>
+    <article>
+        <h2 id="tejidos">Tejidos de Guatemala</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt neque, unde omnis praesentium ducimus voluptas magni, totam doloremque eius, accusamus pariatur voluptates quisquam odit! Beatae similique pariatur odio magnam dignissimos.
+        Placeat, rem eos nam, laborum magnam porro eveniet quidem velit sequi, hic reprehenderit et assumenda totam? Incidunt deserunt asperiores reiciendis quas voluptates amet voluptas hic magnam reprehenderit officia? Provident, enim!
+        Saepe repudiandae quia sint, veritatis enim minus eaque laudantium aliquid. Veniam ab voluptatibus fuga, quaerat quia recusandae soluta adipisci dolore. Aliquam magnam repellendus a! Accusantium quasi unde tempora? Quam, reiciendis.</p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse in consectetur maxime aperiam quod ratione debitis obcaecati, corrupti pariatur fuga exercitationem distinctio illo omnis quidem nihil dolorum quibusdam accusamus quasi!
+        Nisi amet repudiandae consequuntur quis aliquid eum, similique adipisci repellat velit deleniti possimus hic pariatur cumque ex quos laboriosam? Quam minima eos velit odio magnam ullam, cumque sit voluptate eligendi!
+        Aspernatur repudiandae delectus, cumque nisi vero odit iusto quo praesentium perferendis quos? Expedita quia nisi, blanditiis in tempora consectetur quaerat rerum natus. Quas, necessitatibus. Esse magnam dolore id at nostrum!</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe possimus vel, facere quidem consequuntur, libero aut iure eum, ipsam molestias quod cum ipsa tenetur. Distinctio cum accusamus ex enim itaque?
+        A ipsa accusantium corrupti beatae tenetur culpa, dicta quibusdam eos corporis illo aliquam accusamus eum sint amet magni dolore quia ea excepturi quae hic maxime optio sit? Ipsam, ea temporibus?
+        Nostrum dolores quae rerum exercitationem, veniam delectus ipsam! Eveniet consequatur laudantium aperiam! Neque id maxime, vero sapiente natus, sint voluptates perferendis tempore magnam ad quasi cumque esse facere voluptate harum.</p>
+       
+        <img src="imagenes/tejido tactic (1).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (2).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (3).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (9).jpg" alt="foto de tejido">
+
+    </article>
+    <a href="#arriba">Volver hacia arriba</a>
+    <article>
+        <h2 id="colores">Colores de Guatemala</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt neque, unde omnis praesentium ducimus voluptas magni, totam doloremque eius, accusamus pariatur voluptates quisquam odit! Beatae similique pariatur odio magnam dignissimos.
+        Placeat, rem eos nam, laborum magnam porro eveniet quidem velit sequi, hic reprehenderit et assumenda totam? Incidunt deserunt asperiores reiciendis quas voluptates amet voluptas hic magnam reprehenderit officia? Provident, enim!
+        Saepe repudiandae quia sint, veritatis enim minus eaque laudantium aliquid. Veniam ab voluptatibus fuga, quaerat quia recusandae soluta adipisci dolore. Aliquam magnam repellendus a! Accusantium quasi unde tempora? Quam, reiciendis.</p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse in consectetur maxime aperiam quod ratione debitis obcaecati, corrupti pariatur fuga exercitationem distinctio illo omnis quidem nihil dolorum quibusdam accusamus quasi!
+        Nisi amet repudiandae consequuntur quis aliquid eum, similique adipisci repellat velit deleniti possimus hic pariatur cumque ex quos laboriosam? Quam minima eos velit odio magnam ullam, cumque sit voluptate eligendi!
+        Aspernatur repudiandae delectus, cumque nisi vero odit iusto quo praesentium perferendis quos? Expedita quia nisi, blanditiis in tempora consectetur quaerat rerum natus. Quas, necessitatibus. Esse magnam dolore id at nostrum!</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe possimus vel, facere quidem consequuntur, libero aut iure eum, ipsam molestias quod cum ipsa tenetur. Distinctio cum accusamus ex enim itaque?
+        A ipsa accusantium corrupti beatae tenetur culpa, dicta quibusdam eos corporis illo aliquam accusamus eum sint amet magni dolore quia ea excepturi quae hic maxime optio sit? Ipsam, ea temporibus?
+        Nostrum dolores quae rerum exercitationem, veniam delectus ipsam! Eveniet consequatur laudantium aperiam! Neque id maxime, vero sapiente natus, sint voluptates perferendis tempore magnam ad quasi cumque esse facere voluptate harum.</p>
+       
+        <img src="imagenes/tejido tactic (1).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (2).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (3).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (9).jpg" alt="foto de tejido">
+
+    </article>
+    <a href="#arriba">Volver hacia arriba</a>
+    <article>
+        <h2 id="cultura">Cultura Guatemalteca</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt neque, unde omnis praesentium ducimus voluptas magni, totam doloremque eius, accusamus pariatur voluptates quisquam odit! Beatae similique pariatur odio magnam dignissimos.
+        Placeat, rem eos nam, laborum magnam porro eveniet quidem velit sequi, hic reprehenderit et assumenda totam? Incidunt deserunt asperiores reiciendis quas voluptates amet voluptas hic magnam reprehenderit officia? Provident, enim!
+        Saepe repudiandae quia sint, veritatis enim minus eaque laudantium aliquid. Veniam ab voluptatibus fuga, quaerat quia recusandae soluta adipisci dolore. Aliquam magnam repellendus a! Accusantium quasi unde tempora? Quam, reiciendis.</p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse in consectetur maxime aperiam quod ratione debitis obcaecati, corrupti pariatur fuga exercitationem distinctio illo omnis quidem nihil dolorum quibusdam accusamus quasi!
+        Nisi amet repudiandae consequuntur quis aliquid eum, similique adipisci repellat velit deleniti possimus hic pariatur cumque ex quos laboriosam? Quam minima eos velit odio magnam ullam, cumque sit voluptate eligendi!
+        Aspernatur repudiandae delectus, cumque nisi vero odit iusto quo praesentium perferendis quos? Expedita quia nisi, blanditiis in tempora consectetur quaerat rerum natus. Quas, necessitatibus. Esse magnam dolore id at nostrum!</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe possimus vel, facere quidem consequuntur, libero aut iure eum, ipsam molestias quod cum ipsa tenetur. Distinctio cum accusamus ex enim itaque?
+        A ipsa accusantium corrupti beatae tenetur culpa, dicta quibusdam eos corporis illo aliquam accusamus eum sint amet magni dolore quia ea excepturi quae hic maxime optio sit? Ipsam, ea temporibus?
+        Nostrum dolores quae rerum exercitationem, veniam delectus ipsam! Eveniet consequatur laudantium aperiam! Neque id maxime, vero sapiente natus, sint voluptates perferendis tempore magnam ad quasi cumque esse facere voluptate harum.</p>
+       
+        <img src="imagenes/tejido tactic (1).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (2).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (3).jpg" alt="foto de tejido">
+        <img src="imagenes/tejido tactic (9).jpg" alt="foto de tejido">
+
+    </article>
+    <a href="#arriba">Volver hacia arriba</a>
+    </main>
+    <footer>
+    <h3>Buscanos en nuestra nueva ubicación</h3>
+    <pre>
+    15av. 36-87
+    Colonia Marisol, zona 56
+    Guatemala
+    Llámanos al 55348970
+    </pre>
+    </footer>
+</body>
+</html>
